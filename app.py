@@ -2,6 +2,8 @@ from flask import Flask, jsonify, request, session
 from models import *
 from flask_login import LoginManager
 
+#coded by Ankita Roy !
+
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '829dbb1fb94a0c7156bad660fd43ef45'
