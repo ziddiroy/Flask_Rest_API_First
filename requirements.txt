@@ -1,0 +1,12 @@
+flask
+flask-login
+flask-mail
+flask-cors
+flask-jwt-extended
+flask-sqlalchemy
+flask-qrcode
+pymysql
+mysql-connector-python
+flask-hmac
+cryptography
+base58
